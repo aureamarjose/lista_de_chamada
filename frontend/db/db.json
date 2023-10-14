@@ -1,0 +1,265 @@
+{
+  "registerGroup": {
+    "level": [
+      {
+        "id": 1,
+        "name": "1"
+      },
+      {
+        "id": 2,
+        "name": "2"
+      }
+    ],
+    "level_1": [
+      {
+        "id": 1,
+        "name": "Amon"
+      },
+      {
+        "id": 2,
+        "name": "Nuth"
+      },
+      {
+        "id": 3,
+        "name": "Anubis"
+      },
+      {
+        "id": 4,
+        "name": "Xesostris"
+      }
+    ],
+    "level_2": [
+      {
+        "id": 1,
+        "name": "Sidharta"
+      },
+      {
+        "id": 2,
+        "name": "Enoch"
+      },
+      {
+        "id": 3,
+        "name": "Romulo"
+      },
+      {
+        "id": 4,
+        "name": "Apis"
+      },
+      {
+        "id": 5,
+        "name": "Pitagoras"
+      },
+      {
+        "id": 6,
+        "name": "Hilarion"
+      },
+      {
+        "id": 7,
+        "name": "Isis"
+      },
+      {
+        "id": 8,
+        "name": "Salomon"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 1,
+        "name": "Marina"
+      },
+      {
+        "id": 2,
+        "name": "Andrey"
+      }
+    ],
+    "subject_1": [
+      {
+        "id": 1,
+        "name": "Filosofia para viver"
+      }
+    ],
+    "subject_2": [
+      {
+        "id": 1,
+        "name": "Psicologia"
+      },
+      {
+        "id": 2,
+        "name": "ISO"
+      }
+    ]
+  },
+  "group": [
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "dateGroup": "2023-09-26",
+      "timeGroup": "18:00",
+      "mondayGroup": [
+        "tuesday",
+        "wednesday"
+      ],
+      "id": 1
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 2
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 3
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 4
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 5
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 6
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 7
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 8
+    },
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "mondayGroup": [],
+      "dateGroup": "2023-09-26",
+      "timeGroup": "23:18",
+      "id": 9
+    },
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "dateGroup": "2023-09-26",
+      "timeGroup": "00:13",
+      "mondayGroup": [
+        "monday"
+      ],
+      "id": 10
+    },
+    {
+      "level": null,
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 11
+    },
+    {
+      "level": "level1",
+      "group": null,
+      "instructor": null,
+      "subject": null,
+      "dateGroup": null,
+      "timeGroup": null,
+      "mondayGroup": [],
+      "id": 12
+    },
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "dateGroup": "2023-09-26",
+      "timeGroup": "00:31",
+      "mondayGroup": [],
+      "id": 13
+    },
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "dateGroup": "2023-09-28",
+      "timeGroup": "17:30",
+      "mondayGroup": [
+        "wednesday"
+      ],
+      "id": 14
+    },
+    {
+      "level": "level1",
+      "group": "Amon",
+      "instructor": "Marina",
+      "subject": "Filosofia para viver",
+      "dateGroup": "2023-09-28",
+      "timeGroup": "17:41",
+      "mondayGroup": [
+        "monday"
+      ],
+      "id": 15
+    },
+    {
+      "level": "level2",
+      "group": "Hilarion",
+      "instructor": "Marina",
+      "subject": "ISO",
+      "dateGroup": "2023-09-28",
+      "timeGroup": "20:44",
+      "mondayGroup": [
+        "monday"
+      ],
+      "id": 16
+    }
+  ]
+}
